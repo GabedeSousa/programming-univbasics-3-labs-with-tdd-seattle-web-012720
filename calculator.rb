@@ -1,7 +1,7 @@
 # Add your variables here
 
 first_number = 1 
-def number 
+def 1
   puts 
 
 
