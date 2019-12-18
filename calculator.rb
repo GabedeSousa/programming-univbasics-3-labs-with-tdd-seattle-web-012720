@@ -2,7 +2,9 @@
 
 first_number = 1 
 def 1
-  puts 
+  puts first_number
+end
+
 
 
 
