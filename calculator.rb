@@ -1,6 +1,8 @@
 # Add your variables here
 
-first_number = 1 
+def first_number
+  puts 1 
+end
 
 
 
