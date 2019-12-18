@@ -1,6 +1,8 @@
 # Add your variables here
 
-var = 5
+first_number = 5
+puts first_number
+end
 
 
 
