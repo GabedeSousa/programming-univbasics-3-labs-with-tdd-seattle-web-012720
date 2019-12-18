@@ -2,7 +2,8 @@
 
 var = first_number
 first_number = 5
-puts var
+puts first_number
+end
 
 
 
